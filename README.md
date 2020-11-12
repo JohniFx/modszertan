@@ -1,0 +1,2 @@
+# modszertan
+Módszertan házi
