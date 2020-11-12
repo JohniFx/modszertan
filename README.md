@@ -1,2 +1,2 @@
-# modszertan
+# módszertan
 Módszertan házi
