@@ -1,2 +1,2 @@
 # módszertan
-Módszertan házi
+Módszertan házik
