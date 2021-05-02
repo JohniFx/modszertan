@@ -1,2 +1,3 @@
 # módszertan
-Módszertan házik
+BCE Energiagazdálkodási szakközgazdász szakon készített elemzések
+Szakdolgozat elemzései
